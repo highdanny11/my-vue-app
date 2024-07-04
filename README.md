@@ -7,3 +7,4 @@ Learn more about the recommended Project Setup and IDE Support in the [Vue Docs 
 # my-vue-app
 # my-vue-app
 # my-vue-app
+# my-vue-app
