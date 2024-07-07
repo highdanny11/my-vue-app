@@ -12,7 +12,8 @@
   "dependencies": {
     "pdfjs-dist": "^4.4.168",
     "pinia": "^2.1.7",
-    "vue": "^3.4.29"
+    "vue": "^3.4.29",
+    "vue-router": "^4.4.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.5.0",
@@ -20,7 +21,7 @@
     "eslint": "^9.5.0",
     "eslint-plugin-vue": "^9.26.0",
     "globals": "^15.6.0",
-    "typescript": "^5.2.2",
+    "typescript": "^5.5.3",
     "typescript-eslint": "^7.14.1",
     "vite": "^5.3.1",
     "vue-tsc": "^2.0.21"
